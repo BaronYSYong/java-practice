@@ -6,3 +6,6 @@
 ```
 $ sudo apt-get install default-jdk
 ```
+
+## Reference
+* https://www.tutorialspoint.com/java/index.htm
